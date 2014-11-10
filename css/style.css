@@ -1,0 +1,20 @@
+body {
+	background-color: white;
+  padding: 20px;
+}
+#map {
+  height: 600px;
+  border: 10px;
+}
+div {
+  border: 10px solif blue;
+  border-radius: 10px;
+}
+h2 {
+	font-size: 36px;
+	text-align: center;
+	position: center;
+}
+p {
+	font-size: 28px;
+}
