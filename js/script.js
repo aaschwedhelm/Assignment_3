@@ -1,6 +1,6 @@
 var map = L.map('map').setView([41.3887900, 2.1589900], 13);
 
-L.tileLayer('ttp://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png', {
+L.tileLayer('http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png', {
     maxZoom: 18
 }).addTo(map);
 
